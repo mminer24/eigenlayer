@@ -1,7 +1,7 @@
-{ 
-  "nazwa" :  "<NAZWA_OPERATORA>" , 
-  "strona internetowa" :  "<STRONA INTERNETOWA>" , 
-  "opis" :  "<OPIS>" , 
-  "logo" :  "<https://www.example.com/logo.png >" , 
-  "twitter" :  "<TWÓJ_TWITTER>" 
+{
+  "name": "<OPERATOR_NAME>",
+  "website": "<YOUR_WEBSITE>",
+  "description": "<DESCRIPTION>",
+  "logo": "https://www.example.com/logo.png",
+  "twitter": "<YOUR_TWITTER>"
 }
